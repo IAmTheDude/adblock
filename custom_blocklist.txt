@@ -1,3 +1,7 @@
+### android tv new home ###
+androidtvwatsonfe-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
+
 ### lg ###
 ngfts.lge.com
 us.ad.lgsmartad.com
@@ -11,3 +15,17 @@ ads.samsung.com
 www.samsungotn.net
 www.samsungrm.net
 www.samsung.net/ads
+
+### plex ###
+analytics.plex.tv
+
+### yeelights ###
+de.ott.io.mi.com
+de.ot.io.mi.com
+de.ots.io.mi.com
+de-ots-io-mi-com-1-39c632e1e955db22.elb.eu-central-1.amazonaws.com
+
+
+### other domains ###
+www.quotelab.co.uk
+sentry.io
